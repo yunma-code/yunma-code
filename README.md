@@ -4,7 +4,7 @@
 - 🎓 MSCS at Northeastern University | Passionate about AI, Web Development & Audio DSP
 - 🔎 Looking for: [2025 Internships, Co-op, Open Source Contributions]
 - 🎶 Music & Tech Enthusiast | Building AI-powered audio tools
-- 〽️ UMich Alum 
+- 〽️ UMich Alum | 🎻 Boco Berklee Alum
 
   
 ## 🔧 Skills  
