@@ -6,6 +6,11 @@
 - 🎶 Music & Tech Enthusiast | Building AI-powered audio tools
 - 〽️ UMich Alum | 🎻 Boco Berklee Alum
 
+## Currently working on
+- Music Recommendation System
+- Audio Plugins using JUCE & C++
+- Microservice project using Spring Boot & Angular
+
   
 ## 🔧 Skills  
 
