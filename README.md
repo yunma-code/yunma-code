@@ -2,14 +2,13 @@
 
 ## About Me
 - 🎓 MSCS at Northeastern University | Passionate about AI, Web Development & Audio DSP
-- 🔎 Looking for: [2025 Internships, Co-op, Open Source Contributions]
+- 🔎 Looking for: [2025 Fall Internships, Co-op, Open Source Contributions]
 - 🎶 Music & Tech Enthusiast | Building AI-powered audio tools
 - 〽️ UMich Alum | 🎻 Boco Berklee Alum
 
 ## Currently working on
-- Music Recommendation System
+- Agentic AI Frameworks and Infrastructure using LangGraph
 - Audio Plugins using JUCE & C++
-- Microservice project using Spring Boot & Angular
 
   
 ## 🔧 Skills  
