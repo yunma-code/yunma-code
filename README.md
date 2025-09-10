@@ -13,7 +13,7 @@
   
 ## Skills  
 
-### ** Programming Languages**  
+### **Programming Languages**  
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </div>  
 
-### ** Web Development**  
+### **Web Development**  
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
@@ -34,14 +34,14 @@
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white"/>
 </div>  
 
-### ** Audio & DSP Development**  
+### **Audio & DSP Development**  
 <div>
   <img src="https://img.shields.io/badge/JUCE-6D9BF1?style=flat"/>
   <img src="https://img.shields.io/badge/Web%20Audio%20API-000000?style=flat"/>
   <img src="https://img.shields.io/badge/DAW-000000?style=flat&logo=musicbrainz&logoColor=white"/>
 </div>  
 
-### ** Machine Learning & AI**  
+### **Machine Learning & AI**  
 <div>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 </div>  
 
-### ** Databases**  
+### **Databases**  
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
